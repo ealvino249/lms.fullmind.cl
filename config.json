@@ -1,0 +1,25 @@
+{
+  "version": "5.4.0",
+  "min": "5.1.0",
+  "release_date": "06/12/2022",
+  "migrations": [
+    "Modules/RolePermission/Database/Migrations/2022_10_21_161909_PermissionMenuReOrder3.php",
+    "Modules/RolePermission/Database/Migrations/2022_10_27_120052_PermissionMenuAdd.php",
+    "Modules/Quiz/Database/Migrations/2022_10_28_170735_AddFocusLostInQuizTest.php",
+    "Modules/Setting/Database/Migrations/2022_11_09_105844_AddGamificationPermission.php",
+    "Modules/Setting/Database/Migrations/2022_11_09_105844_AddGamificationPermission.php",
+    "Modules/Setting/Database/Migrations/2022_11_09_164402_create_badges_table.php",
+    "Modules/CourseSetting/Database/Migrations/2022_11_10_112520_AddSchoolSubjectPermission.php",
+    "Modules/CourseSetting/Database/Migrations/2022_11_10_113427_create_school_subjects_table.php",
+    "Modules/Setting/Database/Migrations/2022_11_14_145554_create_user_badges_table.php",
+    "Modules/Setting/Database/Migrations/2022_11_14_145632_create_user_gamification_points_table.php",
+    "Modules/Setting/Database/Migrations/2022_11_15_133843_create_user_level_histories_table.php",
+    "Modules/SidebarManager/Database/Migrations/2022_11_24_092111_AddAndUpdateMenuItem2.php",
+    "Modules/ModuleManager/Database/Migrations/2022_11_24_121356_AddOrganizationModule.php",
+    "database/migrations/2022_11_28_110812_add_nullable_email_in_user.php",
+    "database/migrations/2022_12_02_094557_add_secret_login_permission.php",
+    "Modules/SidebarManager/Database/Migrations/2022_12_08_111902_AddDefaultLogoInSidebar.php"
+  ],
+  "url": "https://www.aorasoft.com/",
+  "notes": "This is a bug fixing & new feature update."
+}
